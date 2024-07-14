@@ -1,5 +1,11 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil 👋
 
+ o intuito desse perfil é promover idéias, ajudar em alguns repositórios e por último, mas não menos importantante, mostrar um pouco da minha experiência que adquiri durante o passar dos anos.
+ <div>
+   <a href="https://github.com/Kavaleiro">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Kavaleiro&show_icons=true&theme=dark&include_all_commits=true&count_pirvate=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavaleiro&layout=compact&langs_count=16&theme=dark"/>
+  </div>
 <!--
 **Kavaleiro/Kavaleiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
