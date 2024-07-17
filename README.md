@@ -11,7 +11,7 @@
 <!-- site dos ícones:https://devicon.dev/ ou pode usar esse, :  https://www.vectorlogo.zone or https://simpleicons.org/
 -->
 
-### Linguagens
+### 
 <p >
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
